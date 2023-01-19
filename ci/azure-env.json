@@ -1,0 +1,16 @@
+{
+    "prod": {
+      "jenkinsSPId": "",
+      "azureSubscriptionId": "",
+      "project":  "testnew",
+      "acrRegistry": "",
+      "acrResourceGroup": "",
+      "aksResourceGroup": "",
+      "aksCluster": "",
+      "release":"testnew",
+      "chart": "ci/deploy",
+      "namespace":"testnew",
+      "setAppImageTag": "",
+      "customValuesFile":"ci/deploy/values.yaml"
+    }
+  }
